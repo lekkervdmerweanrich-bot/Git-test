@@ -250,6 +250,23 @@ section{position:relative;overflow:hidden;padding-top:64px;padding-bottom:64px;}
 .service-row__link:hover{color:var(--forest);}
 
 /* ============================================================
+   BUILDERS & RENOVATORS
+   ============================================================ */
+.builders__grid{
+  display:grid;grid-template-columns:1fr;gap:var(--space-6);
+  position:relative;z-index:2;
+}
+@media (min-width:900px){ .builders__grid{grid-template-columns:.8fr 1.2fr;align-items:start;} }
+
+.builders__lead{
+  font-size:clamp(24px,3.2vw,30px);line-height:1.35;font-weight:600;
+  color:var(--forest);max-width:30ch;
+}
+
+.card--flat{box-shadow:none;border:1px solid rgba(24,67,50,.12);}
+.builders__note .btn{margin-top:var(--space-5);}
+
+/* ============================================================
    PROMISES BAND
    ============================================================ */
 .promises{
