@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace https://REPLACE-WITH-DOMAIN.co.za with the live domain once it's known. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://REPLACE-WITH-DOMAIN.co.za/index.html</loc></url>
+  <url><loc>https://REPLACE-WITH-DOMAIN.co.za/garden-waste.html</loc></url>
+  <url><loc>https://REPLACE-WITH-DOMAIN.co.za/house-moves.html</loc></url>
+  <url><loc>https://REPLACE-WITH-DOMAIN.co.za/home-junk.html</loc></url>
+  <url><loc>https://REPLACE-WITH-DOMAIN.co.za/building-rubble.html</loc></url>
+  <url><loc>https://REPLACE-WITH-DOMAIN.co.za/shop-office-clearouts.html</loc></url>
+  <url><loc>https://REPLACE-WITH-DOMAIN.co.za/marketplace-pickups.html</loc></url>
+</urlset>
